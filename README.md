@@ -13,7 +13,7 @@
 5 python manage.py runserver
 
 ```
-
+  
 ### 📷 Project Screenshots
 
 ![ss](./ss/ss1.png)
